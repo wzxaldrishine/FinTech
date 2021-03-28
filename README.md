@@ -40,7 +40,8 @@
 >>> 模型、機器學習：蔡昀庭、蘇成恩 <br>
 >>> 聊天機器人：(待補) <br>
 >>> 簡報：(待補) <br>
-> 之後詳細係針對kol或新聞資料，再去針對客戶類別做推送，將待至業師回覆相關問題後，經組內討論再做回應。 <br>
+
+之後詳細係針對kol或新聞資料，再去針對客戶類別做推送，將待至業師回覆相關問題後，經組內討論再做回應。 <br>
 
 ## 4.六次作業學習紀錄:
 [HW1](https://github.com/wzxaldrishine/FinTech/blob/main/HW1/HW1.md)   :What do you think of Cloud Computing?
