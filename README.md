@@ -1,4 +1,12 @@
 # FinTech
+| 組員姓名  | Email |
+| ------------- |:-------------:|
+| 蘇成恩      | jimmysu0518@gmail.com     |
+| 薛煒加      | b07703130@ntu.edu.tw    |
+| 蔡昀庭      | carrie87617@gmail.com    |
+| 謝依旻      | ee7788965000@gmail.com     |
+
+
 [HW1](https://github.com/wzxaldrishine/FinTech/blob/main/HW1/HW1.md)   :What do you think of Cloud Computing?
 
 > 在完成第 1 堂雲端服務課程後，將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。內容不少於 250 字，並上傳 GitHub 然後將GitHub 鏈接貼在表單上傳作業。
