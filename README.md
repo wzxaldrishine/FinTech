@@ -8,7 +8,7 @@
 
 > 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。
 
-[HW3](https://github.com/wzxaldrishine/FinTech/blob/main/HW3/HW3.md)   :Bulid a Website using Amazon S3(Versioning) and AWS Amplify
+[HW3](https://youtu.be/mZ8izPLCGW4)   :Bulid a Website using Amazon S3(Versioning) and AWS Amplify
 
 >在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
 
