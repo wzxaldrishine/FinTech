@@ -12,15 +12,15 @@
 
 >在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
 
-[HW4](https://github.com/wzxaldrishine/FinTech/blob/main/HW4/HW4.md)   :Build a Telegram Chatbot using Amazon API Gateway AWS Lambda
+[HW4](https://youtu.be/9mvZpJquiNU)   :Build a Telegram Chatbot using Amazon API Gateway AWS Lambda
 
 > 在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。
 
-[HW5](https://github.com/wzxaldrishine/FinTech/blob/main/HW5/HW5.md)   :Create a Database Using Amazon RDS or Amazon DynamoDB
+[HW5]   :Create a Database Using Amazon RDS or Amazon DynamoDB
 
 > 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。
 
-[HW6](https://github.com/wzxaldrishine/FinTech/blob/main/HW6/HW6.md)   :Create a Docker Container or Build your own Project Services
+[HW6]   :Create a Docker Container or Build your own Project Services
 
 > 在完成第 6 堂雲端服務課程後，透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。
 ## 2.專題介紹
