@@ -40,7 +40,7 @@
 | 助教   | 鄭維 助教 |
 
 ## 3.專題說明
-永豐一 千人千面的證券自動化服務
+[永豐一 千人千面的證券自動化服務](https://www.canva.com/design/DAEbdkKQ4LM/uYx0Buf5QRDW30gfYCWNng/view?utm_content=DAEbdkKQ4LM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 > 永豐金證券將提供大數據分析後的多種客群樣態，請每組學生運用FINTECH技術，分別設計多種自動化服務內容，對應到財富管理型客戶及量化交易型客戶的投資訊息需求。 <br>
 
